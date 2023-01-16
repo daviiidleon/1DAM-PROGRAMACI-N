@@ -1,0 +1,54 @@
+a) Mario debe dar 10 saltos, uno tras otro. 
+DETERMINADA
+
+b) Ponte a hacer flexiones hasta que el profesor te diga que pares.
+INDETERMINADA
+ 
+c) El usuario va introduciendo números por el teclado hasta que pone el 0. 
+DETERMINADA CON INTERRUPCIÓN
+
+d) Escribe en la pizarra 100 veces “En clase no se habla”.
+DETERMINADA 
+ 
+e) Una caja tiene 50 artículos. Los vamos sacando y miramos el precio de cada uno. 
+DETERMINADA
+
+f) Un teléfono emite un sonido hasta que el dueño lo coge o la persona que llama cuelga. 
+DETERMINADA CON INTERRUPCIÓN
+
+g) Tengo que resolver 20 ecuaciones de segundo grado. 
+DETERMINADA 
+
+h) Tenemos que mostrar un mensaje en la pantalla tantas veces como ha introducido por 
+teclado el usuario. 
+INDETERMINADA
+
+i) Utilizo mi grabadora de CDs hasta que se rompe. 
+INDETERMINADA 
+
+j) Tengo que andar 15km. Al terminar un kilómetro, paro un poco y sigo hasta que llego. 
+DETERMINADA CON INTERRUPCIÓN
+
+k) Voy al supermercado y empiezo a comprar cosas de forma aleatoria hasta que se me 
+acabe el dinero. 
+DETERMINADA 
+
+l) Hay que transferir por FTP los 5MB de un fichero, byte a byte. 
+DETERMINADA 
+
+m) Tengo que grabar 1000 CDs con mi grabadora, mientras no se rompa. 
+INDETERMINADA 
+
+n) La alarma debe estar funcionando hasta que el dueño la apague. 
+INDETERMINADA
+
+o) La tanda de penaltis se termina cuando uno de los equipos marca 5 goles. 
+DETERMINADA CON INTERRUPCIÓN
+
+p) Debes hacer los 40 ejercicios uno tras otro hasta que éstos se acaben o el profesor te 
+diga que pares. Además, por cada ejercicio mal, el profesor te añade 3 ejercicios más. 
+DETERMINADA CON INTERRUPCIÓN
+
+q) Se presenta un menú de opciones al usuario. El usuario elige una y cuando ésta finaliza 
+se vuelve al menú. Esto se repite hasta que el usuario selecciona la opción “Salir”. 
+DETERMINADA CON INTERRUPCION
